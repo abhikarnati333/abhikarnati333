@@ -1,8 +1,6 @@
 # 🐐 Abhi Karnati
 
-**'Digital Craftsman'**
-
-MORE MORE MORE
+**Hi, I am Abhi Karnati. I'm a rising software engineer and IT enthusiast with a strong foundation in computer science, driven by a relentless passion for innovation. My journey in the tech world has been marked by a commitment to delivering high-impact solutions through adept collaboration within cross-functional teams. As a quick learner, I stay updated on industry trends and cutting-edge technologies, ensuring that I'm always at the forefront of progress. My ultimate goal is to leverage my skills and knowledge to make a meaningful impact on the ever-evolving landscape of technology.**
 ---
 
 ### 🗣️ Languages
