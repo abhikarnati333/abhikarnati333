@@ -25,4 +25,4 @@ I remember at a young age trying to play the Wii Mario Kart game without my mom 
 </details>
 
 💼 Sharing updates on <a href="https://www.linkedin.com/in/abhikarnati/">LinkedIn</a> <br>
-☕️ Buy me some chai so I can make my projects <a href="https://www.paypal.me/abhikarnati/">PayPal</a>
+☕️ Buy me some chai so I can make more projects <a href="https://www.paypal.me/abhikarnati/">PayPal</a>
